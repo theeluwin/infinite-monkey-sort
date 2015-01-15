@@ -8,8 +8,10 @@ For details about infinite monkey theorem, see <http://en.wikipedia.org/wiki/Inf
 Usage
 -----
 
-	from infinite_monkey_sort import infinite_monkey_sort
-	print infinite_monkey_sort([1, 0, 3, 2]) // will give [0, 1, 2, 3]
+```python
+from infinite_monkey_sort import infinite_monkey_sort
+print infinite_monkey_sort([1, 0, 3, 2]) // will give [0, 1, 2, 3]
+```
 
 The test case is in `test.py`, using [unittest][1].
 
