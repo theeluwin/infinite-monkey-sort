@@ -1,0 +1,6 @@
+.coverage
+.gitignore
+.dockerignore
+Dockerfile
+LICENSE
+REAMDE.md
